@@ -24,11 +24,11 @@ Fullscreen Slit Slider is dependant on jQuery, so make sure you have it in your 
 Add to your app/assets/javascripts/application.js
 
 ```
+    //= require modernizr.custom.79639
+    //= require jquery.ba-cond.min
     //= require jquery.slitslider
     
-    //= require jquery.ba-cond.min
     
-    //= require modernizr.custom.79639
 ```
 
 
@@ -37,7 +37,6 @@ And to your app/assets/stylesheets/application.css.sass or application.css.scss
 
 ```
     @import fullscreenslider
-    
     @import fullscreenslider-custom
 ```
 
@@ -45,7 +44,6 @@ Or application.css:
 
 ```
     *= require fullscreenslider
-    
     *= require fullscreenslider-custom
 ```
 
