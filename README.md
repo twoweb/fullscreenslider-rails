@@ -55,6 +55,8 @@ https://github.com/codrops/SlitSlider
 
 http://tympanus.net/Tutorials/FullscreenSlitSlider/
 
+http://tympanus.net/codrops/2012/06/05/fullscreen-slit-slider-with-jquery-and-css3/
+
 
 ## Contributing
 
