@@ -5,7 +5,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-    gem 'elevatezoom-rails'
+    gem 'fullscreenslider-rails'
 ```
 
 And then execute:
