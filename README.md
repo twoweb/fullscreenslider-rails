@@ -1,0 +1,1 @@
+# fullscreenslider-rails
